@@ -1,0 +1,6 @@
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\LibClientes\bin\Debug\LibClientes.dll
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\LibClientes\bin\Debug\LibClientes.pdb
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\LibClientes\obj\Debug\LibClientes.csprojAssemblyReference.cache
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\LibClientes\obj\Debug\LibClientes.csproj.CoreCompileInputs.cache
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\LibClientes\obj\Debug\LibClientes.dll
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\LibClientes\obj\Debug\LibClientes.pdb

@@ -1,0 +1,13 @@
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\ColeccionFormulario\obj\Debug\ColeccionFormulario.csprojAssemblyReference.cache
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\ColeccionFormulario\obj\Debug\ColeccionFormulario.FormCliente.resources
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\ColeccionFormulario\obj\Debug\ColeccionFormulario.Properties.Resources.resources
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\ColeccionFormulario\obj\Debug\ColeccionFormulario.csproj.GenerateResource.cache
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\ColeccionFormulario\obj\Debug\ColeccionFormulario.csproj.CoreCompileInputs.cache
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\ColeccionFormulario\bin\Debug\ColeccionFormulario.exe.config
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\ColeccionFormulario\bin\Debug\ColeccionFormulario.exe
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\ColeccionFormulario\bin\Debug\ColeccionFormulario.pdb
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\ColeccionFormulario\obj\Debug\ColeccionFormulario.exe
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\ColeccionFormulario\obj\Debug\ColeccionFormulario.pdb
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\ColeccionFormulario\bin\Debug\LibClientes.dll
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\ColeccionFormulario\bin\Debug\LibClientes.pdb
+C:\Users\ArmandoGER\source\repos\ColeccionFormulario\ColeccionFormulario\obj\Debug\ColeccionFormulario.csproj.CopyComplete
